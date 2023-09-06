@@ -1,2 +1,2 @@
 #!/bin/bash
-cat list | uniq -u
+ls -t1 | uniq -u
